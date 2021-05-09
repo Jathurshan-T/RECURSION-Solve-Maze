@@ -4,10 +4,7 @@ using System.Windows.Forms;
 using DrawGrid;
 using System.IO;
 
-/* Jathurshan Theivikaran
- * December 2019
- * this program solves a maze that the user inputs in a specific format
- */
+// this program solves a maze that the user inputs in a specific format
 
 //sample mazes are in the folder of this solution
 namespace MazeWin
